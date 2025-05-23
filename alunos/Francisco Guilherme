@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Apresentação de Guilherme</title>
+  <style>
+        h1 {
+            font-family: Arial;
+            padding: 20px;
+        }
+        body {
+            background-color: #dbd8d8a8;
+        }
+        img {
+            border: 5px solid #000;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá! Eu sou Gui</h1>
+    <p>Jovem programador tentando descobrir o que raios é um ponteiro e como centralizar uma div.</p>
+    <img src="https://gifdb.com/images/high/silly-goose-dancing-9b6vvvgr70d4pb28.webp" alt="Pato de bone" width="200">
+</body>
+</html>
